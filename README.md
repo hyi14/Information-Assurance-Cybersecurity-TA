@@ -1,4 +1,4 @@
-# 2025-Cybersecurity-Projects
+# Information Assurance & Cybersecurity TA
 
 Here I document my learning and teaching for the Cybersecurity Course "Information Security & Assurance" at the University of Washington Seattle. Join me (and the LEGO security analysts!) as we build upon introductory cybersecurity concepts.   
 
